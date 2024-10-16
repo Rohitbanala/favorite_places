@@ -1,10 +1,6 @@
 # favorite_places_app
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 <img src="https://github.com/user-attachments/assets/d0847f51-e45f-48e7-a04e-9781e4e9a03b" alt="img 1" width="200"/>
 <img src="https://github.com/user-attachments/assets/2b0e6d95-d40b-479f-bfcd-335d04984b2b" alt="img 2" width="200"/>
