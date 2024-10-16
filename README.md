@@ -15,6 +15,7 @@ Add a Place: Tap the add button to create a new favorite place. You can enter a 
 Using Current Location: Automatically set your current GPS location.
 
 Picking from the Map: Manually choose a location by browsing the map.
+
 View All Places: All your favorite places will be listed on the main screen.
 Map View: View your favorite places pinned on an interactive map.
 
