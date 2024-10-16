@@ -5,7 +5,9 @@ A Flutter app that allows users to save and manage their favorite places. Whethe
 Features
 
 Add New Places: Easily save a new place by entering a name, description, and attaching an image.
+
 Current Location: Save your current location or manually pick a location from the map.
+
 Map View: View all your saved places on an interactive map for a better overview of their locations.
 
 How to Use
